@@ -78,3 +78,5 @@ To get started doing fun stuff, hit the drop down up top that defaults to 'Table
 When you create a data-viz 'slice' that you like, you can save it for later use in your dashboard. Creating a dashboard is done in the same way that you added tables, just under the dashboard tab. You have to add your slices manually in the form, and then you can arrangement by acutally looking at at the dashboard and dragging them around - just remember to hit save!
 
 Hooray!
+
+Finally, don't forget to [follow Rich on GitHub](https://github.com/Miserlou)!
