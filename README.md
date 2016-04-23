@@ -69,7 +69,7 @@ Go back to the table view again, but this time click on the name of your table. 
 
 To get started doing fun stuff, hit the drop down up top that defaults to 'Table View'. Change this to 'Bubble View' if you want to make a Hans Rosling type bubble chart. Then, get creative!
 
-![The CIA, The NYPD, and the NSA are the most rejecty](http://imgur.com/VUnoZfs)
+![The CIA, The NYPD, and the NSA are the most rejecty](http://imgur.com/VUnoZfs.png)
 
 ## Making a Dashboard
 
